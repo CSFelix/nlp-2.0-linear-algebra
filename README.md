@@ -13,3 +13,5 @@
 [01 | Determinants, Eigenvectors and Axioms](https://www.kaggle.com/code/dsfelix/01-determinants-eigenvectors-and-axioms)
 
 [02 | Inverse Matrices, Dot Product and Cross Product](https://www.kaggle.com/code/dsfelix/02-inverse-matrices-dot-product-and-cross-produ)
+
+[03 | Vector Transformations](https://www.kaggle.com/code/dsfelix/03-vector-transformations)
